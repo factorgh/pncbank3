@@ -1,0 +1,7 @@
+Mirror in progress since Fri, 31 May 2024 12:42:37 .. please wait!
+winhttrack https://www.pnc.com/ -O "/Users/mac/websites/pncbank3" -%v 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=22802
+UID=501
+GID=501
+START=1717159357

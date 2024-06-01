@@ -1,0 +1,46 @@
+HTTrack3.49-2 launched on Fri, 31 May 2024 12:42:37 at https://www.pnc.com/
+(winhttrack https://www.pnc.com/ -O "/Users/mac/websites/pncbank3" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:42:39	Warning: 	Note: due to https://www.pnc.com remote robots.txt rules, links beginning with these path will be forbidden: /content/pnc-com/, /en/apps/, /content/mezzanine/, /content/pnc-thought-leadership/, /content/pnc-hawthorn/, /content/wm-money/, /en/admin/ (see in the options to disable this)
+12:42:39	Warning: 	Moved Temporarily for https://www.pnc.com/
+12:42:39	Warning: 	File has moved from https://www.pnc.com/ to https://www.pnc.com/en
+12:44:56	Error: 	"Not Found" (404) at link https://www.pnc.com/en/www.u44.pnc.com/783807/calc.js?dt=login&r= (from https://www.pnc.com/en/personal-banking.html)
+12:44:56	Error: 	"Not Found" (404) at link https://www.pnc.com/en/www.u47.pnc.com/7838070/ethernet.js?r= (from https://www.pnc.com/en/personal-banking.html)
+12:44:56	Error: 	"Not Found" (404) at link https://www.pnc.com/en/GET (from https://www.pnc.com/en/personal-banking.html)
+12:46:22	Warning: 	Moved Temporarily for https://www.pnc.com/es/
+12:46:22	Warning: 	File has moved from https://www.pnc.com/es/ to https://www.pnc.com/es/personal-banking.html
+12:46:25	Error: 	"Not Found" (404) at link https://www.pnc.com/en/ak.m (from https://www.pnc.com/en/personal-banking.html)
+12:46:25	Error: 	"Not Found" (404) at link https://www.pnc.com/en/ak.t (from https://www.pnc.com/en/personal-banking.html)
+14:08:11	Warning: 	Link https://www.pnc.com/en/personal-banking/banking/credit-cards/campaigns/credit-card-offer-DOT.html not scanned (follow robots meta tag)
+14:12:55	Error: 	"Not Found" (404) at link https://www.pnc.com/en/'/content/dam/pnc-com/images/conversation-starters/cover/personal/cs_personal_vw-split-wall_cover.jpg' (from https://www.pnc.com/en/personal-banking.html)
+14:13:51	Error: 	"Not Found" (404) at link https://www.pnc.com/en/'/content/dam/pnc-com/images/fw/mastheads/hero-financial-wellness_muted.png' (from https://www.pnc.com/en/personal-banking.html)
+14:40:16	Error: 	"Not Found" (404) at link https://www.pnc.com/etc.clientlibs/pnc-aem-base/clientlibs/img/home-hq/bkg_glo_graypattern.jpg (from https://www.pnc.com/etc.clientlibs/pnc-aem-base/clientlibs/clientlib-base.min.css)
+14:42:32	Error: 	"Not Found" (404) at link https://www.pnc.com/en/personal-banking/investments-and-retirement/www.u44.pnc.com/783807/calc.js?dt=login&r= (from https://www.pnc.com/en/personal-banking/investments-and-retirement/pnci-international.html)
+14:42:32	Error: 	"Not Found" (404) at link https://www.pnc.com/en/personal-banking/investments-and-retirement/www.u47.pnc.com/7838070/ethernet.js?r= (from https://www.pnc.com/en/personal-banking/investments-and-retirement/pnci-international.html)
+14:42:32	Error: 	"Not Found" (404) at link https://www.pnc.com/en/personal-banking/investments-and-retirement/GET (from https://www.pnc.com/en/personal-banking/investments-and-retirement/pnci-international.html)
+14:42:32	Error: 	"Not Found" (404) at link https://www.pnc.com/en/personal-banking/investments-and-retirement/ak.m (from https://www.pnc.com/en/personal-banking/investments-and-retirement/pnci-international.html)
+14:42:32	Error: 	"Not Found" (404) at link https://www.pnc.com/en/personal-banking/investments-and-retirement/ak.t (from https://www.pnc.com/en/personal-banking/investments-and-retirement/pnci-international.html)
+14:42:32	Error: 	"Not Found" (404) at link https://www.pnc.com/en/personal-banking/investments-and-retirement/'/content/dam/pnc-com/images/universal/backgrounds/background_general-blurred-blue-green.jpg' (from https://www.pnc.com/en/personal-banking/investments-and-retirement/pnci-international.html)
+14:42:32	Error: 	"Not Found" (404) at link https://www.pnc.com/en/personal-banking/www.u44.pnc.com/783807/calc.js?dt=login&r= (from https://www.pnc.com/en/personal-banking/virtual-wallet-overview.html?lnksrc=topnav)
+14:42:32	Error: 	"Not Found" (404) at link https://www.pnc.com/en/personal-banking/www.u47.pnc.com/7838070/ethernet.js?r= (from https://www.pnc.com/en/personal-banking/virtual-wallet-overview.html?lnksrc=topnav)
+14:42:32	Error: 	"Not Found" (404) at link https://www.pnc.com/en/personal-banking/GET (from https://www.pnc.com/en/personal-banking/virtual-wallet-overview.html?lnksrc=topnav)
+14:42:32	Error: 	"Not Found" (404) at link https://www.pnc.com/en/personal-banking/ak.m (from https://www.pnc.com/en/personal-banking/virtual-wallet-overview.html?lnksrc=topnav)
+14:42:32	Error: 	"Not Found" (404) at link https://www.pnc.com/en/personal-banking/ak.t (from https://www.pnc.com/en/personal-banking/virtual-wallet-overview.html?lnksrc=topnav)
+14:42:51	Error: 	"Not Found" (404) at link https://www.pnc.com/en/personal-banking/'/content/dam/pnc-com/images/personal/Checking/VirtualWallet/mastheads/vw_hero_phone-screen.jpg' (from https://www.pnc.com/en/personal-banking/virtual-wallet-overview.html?lnksrc=topnav)
+15:12:23	Error: 	"Not Found" (404) at link https://www.pnc.com/en/personal-banking/'/content/dam/pnc-com/images/personal/Savings/high-yield-savings/zipcode_map.jpg' (from https://www.pnc.com/en/personal-banking/virtual-wallet-overview.html?lnksrc=topnav)
+15:12:24	Error: 	"Not Found" (404) at link https://www.pnc.com/en/personal-banking/banking/www.u44.pnc.com/783807/calc.js?dt=login&r= (from https://www.pnc.com/en/personal-banking/banking/checking.html?lnksrc=topnav)
+15:12:24	Error: 	"Not Found" (404) at link https://www.pnc.com/en/personal-banking/banking/www.u47.pnc.com/7838070/ethernet.js?r= (from https://www.pnc.com/en/personal-banking/banking/checking.html?lnksrc=topnav)
+15:12:24	Error: 	"Not Found" (404) at link https://www.pnc.com/en/personal-banking/banking/GET (from https://www.pnc.com/en/personal-banking/banking/checking.html?lnksrc=topnav)
+15:12:24	Error: 	"Not Found" (404) at link https://www.pnc.com/en/personal-banking/banking/ak.m (from https://www.pnc.com/en/personal-banking/banking/checking.html?lnksrc=topnav)
+15:12:24	Error: 	"Not Found" (404) at link https://www.pnc.com/en/personal-banking/banking/ak.t (from https://www.pnc.com/en/personal-banking/banking/checking.html?lnksrc=topnav)
+15:12:24	Error: 	"Not Found" (404) at link https://www.pnc.com/en/personal-banking/banking/'/content/dam/pnc-com/images/welcome-pages/blurred_background.jpg' (from https://www.pnc.com/en/personal-banking/banking/checking.html?lnksrc=topnav)
+15:12:40	Warning: 	Link https://www.pnc.com/en/personal-banking/banking/checking/fee-schedules/virtual-wallet-all.html not scanned (follow robots meta tag)
+15:13:03	Error: 	"Not Found" (404) at link https://www.pnc.com/en/personal-banking/banking/'/content/dam/pnc-com/images/personal/Savings/high-yield-savings/zipcode_map.jpg' (from https://www.pnc.com/en/personal-banking/banking/checking.html?lnksrc=topnav)
+15:13:03	Error: 	"Not Found" (404) at link https://www.pnc.com/en/personal-banking/banking/'/content/dam/pnc-com/images/personal/Savings/mastheads/hero_p_savings-router.jpg' (from https://www.pnc.com/en/personal-banking/banking/savings.html?lnksrc=topnav)
+15:22:04	Error: 	"Not Found" (404) at link https://www.pnc.com/en/personal-banking/banking/'/content/dam/pnc-com/images/personal/CreditCards/CashRewardsCreditCard/hero_credit-card_cash-rewards.jpg' (from https://www.pnc.com/en/personal-banking/banking/credit-cards.html?lnksrc=topnav)
+16:47:52	Error: 	"Not Found" (404) at link https://www.pnc.com/en/personal-banking/banking/'/content/dam/pnc-com/images/personal/OnlineBanking/mastheads/hero_online_mobile_banking_landing.png' (from https://www.pnc.com/en/personal-banking/banking/online-and-mobile-banking.html?lnksrc=topnav)
